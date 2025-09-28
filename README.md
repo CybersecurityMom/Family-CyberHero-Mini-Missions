@@ -1,34 +1,44 @@
 
 # Family CyberHero Mini-Missions 🛡️
 
-**Tiny, joyful lessons for parents + kids (ages 6–12) to learn cyber safety together.**  
-No coding required. Each mission takes ~10–15 minutes. Optional Python tool included.
-
-**What you’ll learn**
-- Strong passwords (and how to test them)
-- Photo privacy and safe sharing
-- Spotting suspicious messages (phishing)
-- Simple device “health” checks
-- A gentle “data diet” mindset for apps and forms
+Simple, kid-friendly missions for parents and kids to learn about cybersecurity together.  
+Each mission takes about 10–15 minutes. No tech skills needed.  
 
 ---
 
-## Quick Start (no coding)
+## The Missions
 
-1) Click **Code → Download ZIP**, unzip it, and open the folder.  
-2) Open each file in the **`missions/`** folder.  
-3) Do **one mission per day** (or all in one go—your call).  
-4) Celebrate small wins. Cyber confidence grows one tiny habit at a time.
+**Mission 1 — Password Power**  
+Learn what makes a strong password and test examples with the optional checker.  
+→ [Read Mission 1](missions/mission1_password_power.md)
 
-> Want a one-page cheat-sheet for all steps? See **[CHECKLIST.md](CHECKLIST.md)**.
+**Mission 2 — Photo Privacy Check**  
+Practice safe sharing rules for family photos before posting.  
+→ [Read Mission 2](missions/mission2_photo_privacy.md)
+
+**Mission 3 — Phishing Bingo**  
+Spot the red flags together (fun, fast, and visual).  
+→ [Read Mission 3](missions/mission3_phishing_bingo.md)
+
+**Mission 4 — Device Health**  
+Update devices, turn on passcodes, and set a screen-lock timer.  
+→ [Read Mission 4](missions/mission4_device_health.md)
+
+**Mission 5 — Data Diet**  
+Ask “Do they really need this info?” before filling forms.  
+→ [Read Mission 5](missions/mission5_data_diet.md)
 
 ---
 
-## Optional: Try the Password Checker (Python)
+## Parent Coach Tips
+- Keep it playful. Let kids “teach back” in their own words.  
+- Praise the habit, not perfection.  
+- Use examples, not real passwords or personal info.  
 
-If you want to dabble in something “techy,” run our friendly password checker.
+---
 
-**Mac / Windows (with Python 3 installed):**
-```bash
-python3 scripts/password_checker.py
-
+## Family Safety Pledge (read aloud)
+> “We protect our data like treasure.  
+> We pause before we click.  
+> We choose passwords with power.  
+> We ask for help when things feel off.”
