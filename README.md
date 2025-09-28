@@ -42,3 +42,22 @@ Ask “Do they really need this info?” before filling forms.
 > We pause before we click.  
 > We choose passwords with power.  
 > We ask for help when things feel off.”
+
+
+---
+
+## 🐍 Optional: Try the Password Checker (Python)
+
+If you want to try something “techy”:
+
+1. Click the green **Code** button → **Download ZIP** and unzip it.  
+2. Open the folder on your computer.  
+3. Double-click the file `password_checker.py` (if your computer is set up for Python 3)  
+   *or* open a terminal/command prompt in that folder and type:
+
+
+(or on Windows sometimes just `python scripts/password_checker.py`)
+
+4. Type **example** passwords (never real ones).  
+5. Read the friendly feedback.
+
