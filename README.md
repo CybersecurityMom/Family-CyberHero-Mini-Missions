@@ -46,6 +46,13 @@ Ask “Do they really need this info?” before filling forms.
 
 ---
 
+## CyberHero Pledge (read aloud)
+> “I promise to pause, protect, and report.  
+> I am a CyberHero.  
+> Brave, smart, and safe online.”
+
+---
+
 ## 🐍 Optional: Try the Password Checker (Python)
 
 If you want to try something “techy”:
